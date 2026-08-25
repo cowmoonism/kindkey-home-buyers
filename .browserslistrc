@@ -1,0 +1,8 @@
+# Browsers that we support
+# Modern browsers only - reduces polyfill size
+> 0.5%
+last 2 versions
+Firefox ESR
+not dead
+not IE 11
+
