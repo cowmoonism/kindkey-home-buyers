@@ -36,10 +36,10 @@ export default function ContactPage() {
                   <div>
                     <p className="mb-1 font-medium text-text-primary">Phone Call</p>
                     <a
-                      href="tel:+12532604117"
+                      href="tel:+12535183638"
                       className="mb-1 block text-sm text-divider hover:underline"
                     >
-                      (253)260-4117
+                      (253) 518-3638
                     </a>
                     <p className="text-sm">
                       Prefer to talk? We'll call you at your preferred time after you submit your
@@ -49,10 +49,10 @@ export default function ContactPage() {
                   <div>
                     <p className="mb-1 font-medium text-text-primary">Text</p>
                     <a
-                      href="tel:+12532604117"
+                      href="tel:+12535183638"
                       className="mb-1 block text-sm text-divider hover:underline"
                     >
-                      (253)260-4117
+                      (253) 518-3638
                     </a>
                     <p className="text-sm">
                       Text us at the number above. We respond quickly to text inquiries.

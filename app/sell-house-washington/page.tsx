@@ -85,7 +85,7 @@ export default function SellHouseWashingtonPage() {
               postalCode: '98354',
               addressCountry: 'US',
             },
-            telephone: '+12532604117',
+            telephone: '+12535183638',
             email: 'info@kindkeyhomebuyers.com',
           }),
         }}

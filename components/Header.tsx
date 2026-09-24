@@ -63,10 +63,10 @@ export default function Header() {
 
             <div className="flex items-center gap-4">
               <a
-                href="tel:+12532604117"
+                href="tel:+12535183638"
                 className="hidden text-sm font-medium text-text-secondary transition-colors hover:text-divider sm:inline"
               >
-                (253)260-4117
+                (253) 518-3638
               </a>
               <a
                 href="#form"
@@ -124,10 +124,10 @@ export default function Header() {
               </Link>
             ))}
             <a
-              href="tel:+12532604117"
+              href="tel:+12535183638"
               className="text-sm font-medium text-text-secondary transition-colors hover:text-divider"
             >
-              (253)260-4117
+              (253) 518-3638
             </a>
             <a
               href="mailto:info@kindkeyhomebuyers.com"
@@ -196,11 +196,11 @@ export default function Header() {
               </Link>
             ))}
             <a
-              href="tel:+12532604117"
+              href="tel:+12535183638"
               onClick={() => setMobileMenuOpen(false)}
               className="block text-base font-medium text-text-secondary transition-colors hover:text-divider"
             >
-              (253)260-4117
+              (253) 518-3638
             </a>
             <a
               href="mailto:info@kindkeyhomebuyers.com"

@@ -103,10 +103,10 @@ export default function AboutPage() {
             <div className="mb-4">
               <p className="mb-2 text-text-secondary">Call or text us:</p>
               <a
-                href="tel:+12532604117"
+                href="tel:+12535183638"
                 className="mb-2 block text-xl font-semibold text-divider hover:underline"
               >
-                (253)260-4117
+                (253) 518-3638
               </a>
               <p className="mb-2 text-text-secondary">Email us:</p>
               <a

@@ -62,10 +62,10 @@ export default function Footer() {
             <ul className="space-y-2">
               <li>
                 <a
-                  href="tel:+12532604117"
+                  href="tel:+12535183638"
                   className="text-text-secondary transition-colors hover:text-divider"
                 >
-                  (253)260-4117
+                  (253) 518-3638
                 </a>
               </li>
               <li>

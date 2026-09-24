@@ -223,7 +223,7 @@ export default function RootLayout({
                 addressCountry: 'US',
               },
               email: 'info@kindkeyhomebuyers.com',
-              telephone: '+12532604117',
+              telephone: '+12535183638',
               image: 'https://kindkeyhomebuyers.com/logo.avif',
               logo: 'https://kindkeyhomebuyers.com/logo.avif',
               priceRange: '$$',

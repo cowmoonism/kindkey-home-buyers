@@ -11,8 +11,8 @@ export const metadata: Metadata = {
 
 const BUSINESS_NAME = 'KindKey Home Buyers LLC';
 const BUSINESS_EMAIL = 'info@kindkeyhomebuyers.com';
-const BUSINESS_PHONE_DISPLAY = '(253) 260-4117';
-const BUSINESS_PHONE_TEL = '+12532604117';
+const BUSINESS_PHONE_DISPLAY = '(253) 518-3638';
+const BUSINESS_PHONE_TEL = '+12535183638';
 
 export default function PrivacyPage() {
   const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://kindkeyhomebuyers.com';
